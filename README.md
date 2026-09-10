@@ -1,10 +1,10 @@
 # Noon Food Delivery SQL Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes food delivery order data using SQL to understand **customer behavior, acquisition, promotions, and restaurant performance**.
 
-## 🛠️ Tools & Concepts
+##  Tools & Concepts
 
 * SQL / SQL Server
 * CTEs
@@ -14,7 +14,7 @@ This project analyzes food delivery order data using SQL to understand **custome
 * Date Functions
 * `CASE WHEN`
 
-## 📂 Dataset
+##  Dataset
 
 The dataset contains information about:
 
@@ -24,7 +24,7 @@ The dataset contains information about:
 * Order date & time
 * Promo codes
 
-## 🔍 Analysis Performed
+##  Analysis Performed
 
 1. Found the **Top 3 outlets for each cuisine** based on orders.
 2. Calculated **daily new customer acquisition**.
@@ -34,7 +34,7 @@ The dataset contains information about:
 6. Found customers who used **promotions for all their orders**.
 7. Calculated the percentage of **organically acquired customers** in January 2025.
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Noon-Food-Delivery-SQL-Analysis/
@@ -48,6 +48,6 @@ Noon-Food-Delivery-SQL-Analysis/
 └── README.md
 ```
 
-## 🎯 Key Learning
+##  Key Learning
 
 This project helped me practice using SQL to solve **real-world business problems** involving customer acquisition, retention, promotions, and restaurant performance.
